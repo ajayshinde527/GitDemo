@@ -27,4 +27,13 @@ public void iosapps() {
 	System.out.println("adding develop branch from gitdemo");
 	System.out.println("adding develop branch from gitdemo");
 }
+
+public void Americanman() {
+	System.out.println("hi from much from gitx");
+	
+	System.out.println("adding develop branch from gitx");
+	System.out.println("adding develop branch from gitx");
+	System.out.println("adding develop branch from gitx");
+}
+
 }
