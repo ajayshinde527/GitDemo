@@ -6,3 +6,14 @@
 20:09:55.088 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
 20:10:02.833 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest ******
 20:10:05.372 [main] INFO  testCases.TC002_LoginTest - **** finished TC_002_LoginTest ******
+22:47:24.809 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\GitDemo\grouping.xml
+
+22:47:43.047 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest ****
+22:47:43.797 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:47:45.449 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+22:47:45.464 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+22:47:48.175 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating excepted message
+22:47:48.264 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:48:01.876 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest ******
+22:48:05.424 [main] INFO  testCases.TC002_LoginTest - **** finished TC_002_LoginTest ******
