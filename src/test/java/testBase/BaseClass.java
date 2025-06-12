@@ -27,7 +27,7 @@ import org.testng.annotations.Parameters;
 
 public class BaseClass {
 
-	
+	//hi
 	public static WebDriver driver;
 	public Logger logger;//log4j
 	public Properties p;
